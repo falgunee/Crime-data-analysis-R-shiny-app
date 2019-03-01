@@ -1,0 +1,17 @@
+Type Of Crime,Age,Arrested Female,Arrested Male,Total 
+Dowry Prohibition,18-30,3111,6347,9458
+Dowry Prohibition,30-45,5496,7200,12696
+Dowry Prohibition,45-60,3915,3478,7393
+Dowry Prohibition,Above 60,240,252,492
+Narcotic Drugs,18-30,1230,28150,29380
+Narcotic Drugs,30-45,2274,19956,22230
+Narcotic Drugs,45-60,1014,5972,6986
+Narcotic Drugs,Above 60,102,344,446
+ Domestic Violence ,18-30,63,20400,20463
+ Domestic Violence ,30-45,90,19700,19790
+ Domestic Violence ,45-60,51,1300,1351
+ Domestic Violence ,Above 60,31,1440,1471
+"Gambling Act, 1867",18-30,576,147744,148320
+"Gambling Act, 1867",30-45,1479,147571,149050
+"Gambling Act, 1867",45-60,612,63367,63979
+"Gambling Act, 1867",Above 60,51,5474,5525
